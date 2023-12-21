@@ -1,0 +1,1 @@
+A showcase website for me to put utilizing git/github and basic html & cli. FAir warning, it'll be very bare bones.
